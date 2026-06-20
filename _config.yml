@@ -1,3 +1,14 @@
 title: Kalyani Jog
 show_downloads: true
+name             : "Kalyani Jog"
+avatar           : "/assets/images/bio-photo.jpg"
+bio              : "Electronics Engineer & Data Scientist specializing in AI and Analytics. Passionate about bridging hardware and ML, with a Masters in Data Science (2024) and experience in industrial RFID and NLP projects."
+location         : "India"
+links:
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/KalyaniVJ"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/kalyanijog/"
 theme: jekyll-theme-minimal
