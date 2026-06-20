@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Uploading Professional_Career_Evolution_Timeline.png…]()
+![Professional_Career_Evolution_Timeline.png…](assets/images/Professional_Career_Evolution_Timeline.png)
 
 <img width="2752" height="1536" alt="Professional_Career_Evolution_Timeline" src="https://github.com/user-attachments/assets/7f6f0e5d-e76e-4758-9c72-94cc0d699df3" />
 
